@@ -1,0 +1,5 @@
+forAiTools.md
+*.gguf
+tavily-quickstart
+.venv
+
